@@ -6,7 +6,7 @@ class Basic1Test {
 
     Basic1 bb = new Basic1();
     void twoShouldReturnEven(){
-        assertEquals()
+        assertEquals();
 
     }
 
